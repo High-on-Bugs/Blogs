@@ -106,7 +106,7 @@ That's the foundation of the project structure and how I harnessed OOP principle
 
 Our software utilizes the [PyAudio](https://pypi.org/project/PyAudio/) library to manage audio input. With PyAudio, we can establish connections with audio drivers, be it your headphone drivers or any audio interface you prefer. This gives us access to the raw audio data that flows through your system.
 
-***Challenges and Considerations***\*:\* Working with audio interfaces presents its fair share of challenges. Ensuring compatibility across a wide range of drivers and hardware configurations can be tricky. We must consider issues like latency, device selection, and data format when dealing with these interfaces.
+***Challenges and Considerations***: Working with audio interfaces presents its fair share of challenges. Ensuring compatibility across a wide range of drivers and hardware configurations can be tricky. We must consider issues like latency, device selection, and data format when dealing with these interfaces.
 
 To tackle these challenges, I configured the software with the following settings:
 
