@@ -2,7 +2,7 @@
 title: "Setting Up My Simple Home Server: A Practical Guide"
 datePublished: Sun Jan 14 2024 10:24:26 GMT+0000 (Coordinated Universal Time)
 cuid: clrdcn6vp000209jxc68e8vgi
-slug: setting-up-my-simple-home-server-a-practical-guide
+slug: setting-up-my-home-server
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705227618720/4fd18848-3721-46d1-b931-686e85314423.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1705227834764/e73044cf-040d-4a4d-bc7e-b88af0ad59c5.avif
 tags: ubuntu, server, debian, media, nas-storage-solutions
