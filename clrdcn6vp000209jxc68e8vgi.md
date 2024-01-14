@@ -141,9 +141,9 @@ The newfound internet connection was immediately put to use. The system underwen
 
 The path to a fully functional home server encountered a significant hurdle when the built-in Wi-Fi adapter, the TP-Link RTL8812AU, found no official Linux support. Undeterred, I delved into the challenge, determined to find a workaround.
 
-### **Discovering Community Wisdom on Ubuntu Forum**
+### **Discovering Community Wisdom on Mint Forum**
 
-A ray of hope emerged when I stumbled upon a community post on the Ubuntu forum. Fellow enthusiasts faced similar RTL8812AU woes. The community post led me to a GitHub repository housing a solution to my driver predicament. The repository contained not only the necessary driver files but also somewhat detailed instructions in the README file.
+A ray of hope emerged when I stumbled upon a [community post on the Mint forum](https://forums.linuxmint.com/viewtopic.php?t=307023). Fellow enthusiasts faced similar RTL8812AU woes. The community post led me to a GitHub repository housing a solution to my driver predicament. The repository contained not only the necessary driver files but also somewhat detailed instructions in the README file.
 
 ### **Installing the Driver Using Readme Instructions**
 
