@@ -65,7 +65,7 @@ Ah, the hiccup. No Ethernet cable on hand meant no updated packages during insta
 
 And there you have it - Chapter 3! The USB drive is flashed, the BIOS is in check, and Ubuntu is making its home on the old PC. Stay tuned for the next chapter, where we tackle connection challenges and navigate the intricacies of USB tethering for internet access during and after installation. 🌐
 
-## **Chapter 4: No Ethernet, No Problem: USB Tethering to Mobile Phone**
+## **Chapter 4: USB Tethering to Mobile Phone**
 
 ### **Overcoming Connection Challenges During Installation**
 
