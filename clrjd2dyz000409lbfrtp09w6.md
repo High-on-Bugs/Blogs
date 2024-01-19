@@ -110,7 +110,7 @@ vercel
 
 ---
 
-My Code: [https://github.com/sbk2k1/deploy-typescript-express-app-to-vercel](https://github.com/sbk2k1/deploy-typescript-express-app-to-vercel)
+My Code: [https://github.com/High-on-Bugs/typescript-express-vercel-tutorial](https://github.com/High-on-Bugs/typescript-express-vercel-tutorial)
 
 Check this video for a video tutorial:
 
