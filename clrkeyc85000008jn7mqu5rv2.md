@@ -210,8 +210,8 @@ In your repository settings, go to ***"Settings"*** &gt; ***"Actions"*** &gt; **
 
 ## **Step 6: Remove Custom Domain CNAME (Optional)**
 
-If you want to remove a custom domain from your GitHub Pages site (assuming you previously set it up and don't want it anymore), go to the URL below  
-  
+If you want to remove a custom domain from your GitHub Pages site (assuming you previously set it up and don't want it anymore), go to the URL below
+
 `https://github.com/USERNAME/USERNAME.github.io/blob/master/CNAME`
 
 And remove the CNAME inside the file.
@@ -220,7 +220,7 @@ Now, commit and push these changes, and your GitHub Actions workflow will automa
 
 ---
 
-Repository with the code and setup: [https://github.com/sbk2k1/socials](https://github.com/sbk2k1/socials)
+Repository with the code and setup: [https://github.com/High-on-Bugs/Deploy-Wesbite-using-Actions-and-Pages](https://github.com/High-on-Bugs/Deploy-Wesbite-using-Actions-and-Pages)
 
 GitHub Issue discussing expired domain problem: [https://github.com/isaacs/github/issues/1213](https://github.com/isaacs/github/issues/1213)
 
